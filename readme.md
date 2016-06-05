@@ -1,1 +1,1 @@
-Most of code were obtained in parts from various sources such as Google, Stackoverflow, R Bloggers. A special thanks to Jefferey Breen. I have used his sentiment classfication technique for my analysis. A special thanks to Kaggle as well.
+Some code were obtained in parts from various sources such as Google, Stackoverflow, R Bloggers. A special thanks to Jefferey Breen. I have used his sentiment classfication technique for my analysis. A special thanks to Kaggle as well.
