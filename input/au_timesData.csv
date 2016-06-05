@@ -1,0 +1,118 @@
+world_rank,university_name,country,teaching,international,research,citations,income,total_score,num_students,student_staff_ratio,international_students,female_male_ratio,year
+36,University of Melbourne,Australia,58.7,88,69.2,83.3,47.7,71,"40,128",23.7,35%,55:45:00,2011
+43,Australian National University,Australia,51.9,93.9,62.4,81,-,67,"14,604",19.2,35%,52:48:00,2011
+71,University of Sydney,Australia,49.8,89.6,61.9,64.3,90.8,61.2,"41,868",20.2,28%,57:43:00,2011
+73,University of Adelaide,Australia,46.5,87.5,38.8,90.5,52.7,60.7,"20,771",30.1,26%,48:52:00,2011
+81,The University of Queensland,Australia,51.8,74.2,53.4,69,57.1,59.1,"34,718",32.7,27%,53:47:00,2011
+152,University of New South Wales,Australia,49.5,70.7,48.9,51.2,60,51.2,"38,309",25.9,33%,47:53:00,2011
+178,Monash University,Australia,39.4,87.1,38.8,60.5,40.8,48.5,"50,882",40.5,36%,56:44:00,2011
+37,University of Melbourne,Australia,62.2,82.5,72.4,80.7,44.4,71.9,"40,128",23.7,35%,55:45:00,2012
+38,Australian National University,Australia,62.8,93.8,75.1,72.6,41.7,71.2,"14,604",19.2,35%,52:48:00,2012
+58,University of Sydney,Australia,55.4,88.1,65.7,57.2,92.1,62.4,"41,868",20.2,28%,57:43:00,2012
+74,The University of Queensland,Australia,47.5,80.8,52.3,70.2,62.6,58.6,"34,718",32.7,27%,53:47:00,2012
+117,Monash University,Australia,40.5,75.8,48.5,57.1,62.2,51.1,"50,882",40.5,36%,56:44:00,2012
+173,University of New South Wales,Australia,36.1,85.1,40.2,46.8,53.1,44.6,"38,309",25.9,33%,47:53:00,2012
+189,University of Western Australia,Australia,32.1,90,35.8,47.8,58.7,42.9,"20,851",20.7,27%,50:50:00,2012
+201-225,University of Adelaide,Australia,32.2,81.7,33.4,43.8,50.7,-,"20,771",30.1,26%,48:52:00,2012
+226-250,Macquarie University,Australia,21.3,93,23.2,46.5,42.3,-,"27,930",20,44%,55:45:00,2012
+251-275,University of Wollongong,Australia,21.4,88.7,23,43.5,40.4,-,"16,489",25.4,24%,50:50:00,2012
+276-300,Queensland University of Technology,Australia,21,76.7,26.7,35.5,62.5,-,"33,391",35.8,17%,54:46:00,2012
+276-300,University of Newcastle,Australia,18.2,76.3,27.1,35.8,64.8,-,"23,508",21.9,18%,56:44:00,2012
+301-350,Charles Darwin University,Australia,16.4,46.7,19.4,52.6,31.3,-,"5,570",25.4,15%,67:33:00,2012
+301-350,University of Tasmania,Australia,18.5,70.5,15,34.9,42.1,-,"18,340",23.8,21%,57:43:00,2012
+350-400,Curtin University,Australia,17.1,91.4,12.3,28.7,31.3,-,"30,333",17.1,38%,53:47:00,2012
+350-400,Deakin University,Australia,17.7,56.3,16.8,26.2,27.9,-,"32,713",30.4,17%,60:40:00,2012
+350-400,Flinders University,Australia,18.2,59.9,19.1,20.3,36.2,-,"15,655",22.6,15%,63:37:00,2012
+350-400,Griffith University,Australia,15.7,79,16.2,20.3,30.7,-,"30,251",22,21%,,2012
+350-400,La Trobe University,Australia,19,71.3,19.5,13.6,28.9,-,"22,037",29,27%,63:37:00,2012
+350-400,Swinburne University of Technology,Australia,15.5,64.6,11.3,35.6,40.3,-,"20,314",36.5,33%,44:56:00,2012
+350-400,University of South Australia,Australia,20.6,81.8,18,19.4,87.7,-,"18,971",26.2,32%,59:41:00,2012
+28,University of Melbourne,Australia,68.4,77.2,82.5,83.7,67.6,77.9,"40,128",23.7,35%,55:45:00,2013
+37,Australian National University,Australia,68.6,90,83.5,73.5,39.6,75.4,"14,604",19.2,35%,52:48:00,2013
+62,University of Sydney,Australia,59.5,83,70.1,62.9,69.2,65.7,"41,868",20.2,28%,57:43:00,2013
+65,The University of Queensland,Australia,54.4,77.8,66.1,69.6,64,64.4,"34,718",32.7,27%,53:47:00,2013
+85,University of New South Wales,Australia,52.6,84.8,63.8,56.7,50.5,59.6,"38,309",25.9,33%,47:53:00,2013
+99,Monash University,Australia,47.8,66.4,60.6,60.9,70,57.5,"50,882",40.5,36%,56:44:00,2013
+176,University of Adelaide,Australia,37.3,82.2,43.7,55.9,63.2,48.8,"20,771",30.1,26%,48:52:00,2013
+190,University of Western Australia,Australia,35,88.4,39.9,55.7,60,47.3,"20,851",20.7,27%,50:50:00,2013
+251-275,Macquarie University,Australia,22,86.8,29.6,54.8,37.2,-,"27,930",20,44%,55:45:00,2013
+251-275,Queensland University of Technology,Australia,27.6,69.2,37,47,58.9,-,"33,391",35.8,17%,54:46:00,2013
+276-300,University of Newcastle,Australia,21.1,70.5,29,49.8,72.9,-,"23,508",21.9,18%,56:44:00,2013
+301-350,Murdoch University,Australia,19.4,83.3,18.9,49.6,44.2,-,"16,606",32.8,43%,59:41:00,2013
+301-350,University of South Australia,Australia,28.4,81,25,34.1,83.7,-,"18,971",26.2,32%,59:41:00,2013
+301-350,University of Wollongong,Australia,22.5,83.7,27.3,47.4,54,-,"16,489",25.4,24%,50:50:00,2013
+351-400,Charles Darwin University,Australia,17.2,44.3,15.3,53.3,32.5,-,"5,570",25.4,15%,67:33:00,2013
+351-400,Deakin University,Australia,20,68.4,22,47.1,30.1,-,"32,713",30.4,17%,60:40:00,2013
+351-400,Flinders University,Australia,22.4,59.8,24.2,38.4,39.1,-,"15,655",22.6,15%,63:37:00,2013
+351-400,University of Tasmania,Australia,19.5,68.4,17.5,47.2,44.8,-,"18,340",23.8,21%,57:43:00,2013
+351-400,University of Technology Sydney,Australia,20.7,74.7,21.5,34.7,33.9,-,"24,519",44.1,31%,53:47:00,2013
+34,University of Melbourne,Australia,57.1,81.3,64.2,80.2,65.1,68.2,"40,128",23.7,35%,55:45:00,2014
+48,Australian National University,Australia,51.8,91.4,65.1,71.2,44.8,64.4,"14,604",19.2,35%,52:48:00,2014
+63,The University of Queensland,Australia,43.4,79.7,58,73.3,61,59.9,"34,718",32.7,27%,53:47:00,2014
+72,University of Sydney,Australia,47.4,84.8,55.4,66.6,66.3,58.8,"41,868",20.2,28%,57:43:00,2014
+91,Monash University,Australia,42.5,78.3,48.9,65.4,67,54.6,"50,882",40.5,36%,56:44:00,2014
+114,University of New South Wales,Australia,38.8,83.5,50.1,58,52.6,51.7,"38,309",25.9,33%,47:53:00,2014
+168,University of Western Australia,Australia,34.6,88.6,34.7,58,63.3,46.4,"20,851",20.7,27%,50:50:00,2014
+201-225,University of Adelaide,Australia,28.7,78.2,34.3,56.8,54.1,-,"20,771",30.1,26%,48:52:00,2014
+251-275,University of Newcastle,Australia,21.2,70.5,28.2,58,74.2,-,"23,508",21.9,18%,56:44:00,2014
+276-300,Macquarie University,Australia,20.9,91.1,23.8,54.2,37.9,-,"27,930",20,44%,55:45:00,2014
+276-300,Queensland University of Technology,Australia,26.6,67.9,32.3,44,65.3,-,"33,391",35.8,17%,54:46:00,2014
+276-300,University of Wollongong,Australia,22.8,83.9,25.2,49.1,59.6,-,"16,489",25.4,24%,50:50:00,2014
+301-350,Deakin University,Australia,16.6,73.4,18.7,54.2,31.1,-,"32,713",30.4,17%,60:40:00,2014
+301-350,Murdoch University,Australia,16.7,86.4,16,51.7,49.9,-,"16,606",32.8,43%,59:41:00,2014
+301-350,University of South Australia,Australia,22.5,80,21.8,40.2,83.2,-,"18,971",26.2,32%,59:41:00,2014
+301-350,University of Technology Sydney,Australia,22.1,87.3,22,47.8,36.4,-,"24,519",44.1,31%,53:47:00,2014
+351-400,Charles Darwin University,Australia,17.9,58.9,18.6,49.1,35.5,-,"5,570",25.4,15%,67:33:00,2014
+351-400,Swinburne University of Technology,Australia,17,68.5,19.4,49.1,46.7,-,"20,314",36.5,33%,44:56:00,2014
+351-400,University of Tasmania,Australia,18.7,69.9,16.7,49.1,36.9,-,"18,340",23.8,21%,57:43:00,2014
+33,University of Melbourne,Australia,60.4,81.3,70.9,80.6,61.2,71.2,"40,128",23.7,35%,55:45:00,2015
+45,Australian National University,Australia,53.7,91.3,70.9,71.1,38.9,66.5,"14,604",19.2,35%,52:48:00,2015
+60,University of Sydney,Australia,52.8,83.6,60.8,69,67.3,62.7,"41,868",20.2,28%,57:43:00,2015
+65,The University of Queensland,Australia,45.8,80.4,58.4,74.2,66.2,61.2,"34,718",32.7,27%,53:47:00,2015
+83,Monash University,Australia,43.7,79.6,54.4,65.7,73.4,56.9,"50,882",40.5,36%,56:44:00,2015
+109,University of New South Wales,Australia,41.1,83.5,51.9,61.1,47.8,53.7,"38,309",25.9,33%,47:53:00,2015
+157,University of Western Australia,Australia,36.3,87.3,38.1,62.2,63.3,49.1,"20,851",20.7,27%,50:50:00,2015
+164,University of Adelaide,Australia,33.8,79.3,40.4,61.1,65.3,48.2,"20,771",30.1,26%,48:52:00,2015
+226-250,University of Technology Sydney,Australia,27.8,86.9,32.5,58.7,40.1,-,"24,519",44.1,31%,53:47:00,2015
+251-275,University of Newcastle,Australia,26.5,70.6,29.9,57.5,75.6,-,"23,508",21.9,18%,56:44:00,2015
+276-300,Queensland University of Technology,Australia,29.9,69.8,36,42.9,71.9,-,"33,391",35.8,17%,54:46:00,2015
+276-300,University of South Australia,Australia,25.7,80.8,24,52.7,83.9,-,"18,971",26.2,32%,59:41:00,2015
+276-300,University of Wollongong,Australia,25.2,80.4,27.8,55.1,44.7,-,"16,489",25.4,24%,50:50:00,2015
+301-350,Charles Darwin University,Australia,20.3,45.5,17.8,64.5,32.7,-,"5,570",25.4,15%,67:33:00,2015
+301-350,Deakin University,Australia,20.1,71.8,20.6,57.5,30.6,-,"32,713",30.4,17%,60:40:00,2015
+301-350,Macquarie University,Australia,24,89.2,24.8,50.2,36.2,-,"27,930",20,44%,55:45:00,2015
+351-400,Curtin University,Australia,20.1,91.3,17.1,45.3,36.1,-,"30,333",17.1,38%,53:47:00,2015
+351-400,Murdoch University,Australia,21.2,85.3,17.8,46.5,40.5,-,"16,606",32.8,43%,59:41:00,2015
+351-400,Swinburne University of Technology,Australia,20.2,86.9,16.3,50.2,38.8,-,"20,314",36.5,33%,44:56:00,2015
+351-400,Western Sydney University,Australia,17.8,50.1,22.4,58.7,30.4,-,"30,704",32.2,9%,56:44:00,2015
+33,University of Melbourne,Australia,62,87.1,75.5,86.6,64.6,75.4,"40,128",23.7,35%,55:45:00,2016
+52,Australian National University,Australia,54.7,93.3,77.3,72.3,48,69.5,"14,604",19.2,35%,52:48:00,2016
+56,University of Sydney,Australia,54.3,84.4,68.1,77.5,72.4,68.1,"41,868",20.2,28%,57:43:00,2016
+60,The University of Queensland,Australia,49.2,89.3,62.8,82.4,76.7,67,"34,718",32.7,27%,53:47:00,2016
+73,Monash University,Australia,48.1,87.6,58.5,73.3,79.7,62.5,"50,882",40.5,36%,56:44:00,2016
+82,University of New South Wales,Australia,40.7,89.5,53.9,82.1,50,61,"38,309",25.9,33%,47:53:00,2016
+109,University of Western Australia,Australia,33.4,92.6,46.1,83.6,64.5,57.5,"20,851",20.7,27%,50:50:00,2016
+149,University of Adelaide,Australia,32.8,85.1,43.2,72.4,79.3,52.9,"20,771",30.1,26%,48:52:00,2016
+201-250,University of Technology Sydney,Australia,27,90.1,35.1,66.9,42.3,-,"24,519",44.1,31%,53:47:00,2016
+251-300,Charles Darwin University,Australia,17.8,63.7,22.6,85.9,43.2,-,"5,570",25.4,15%,67:33:00,2016
+251-300,Flinders University,Australia,21.4,64.7,25.7,69.5,41.7,-,"15,655",22.6,15%,63:37:00,2016
+251-300,Griffith University,Australia,22.5,81.7,25.2,66.3,34.6,-,"30,251",22,21%,,2016
+251-300,James Cook University,Australia,19,70.4,22.8,81.4,40.7,-,"11,713",21.9,11%,63:37:00,2016
+251-300,University of Newcastle,Australia,27.4,75.9,26.5,67.2,64.4,-,"23,508",21.9,18%,56:44:00,2016
+251-300,Queensland University of Technology,Australia,28.8,76,35.6,56,73.7,-,"33,391",35.8,17%,54:46:00,2016
+251-300,University of Tasmania,Australia,21.8,79.1,25.7,68,42.7,-,"18,340",23.8,21%,57:43:00,2016
+251-300,University of Wollongong,Australia,25.8,86.8,28.4,59.3,57.9,-,"16,489",25.4,24%,50:50:00,2016
+301-350,Deakin University,Australia,22.4,76.9,21.9,66.8,30,-,"32,713",30.4,17%,60:40:00,2016
+301-350,Macquarie University,Australia,28.5,90,27.2,52.3,33.1,-,"27,930",20,44%,55:45:00,2016
+351-400,La Trobe University,Australia,27,78,28.5,45.4,43.7,-,"22,037",29,27%,63:37:00,2016
+351-400,University of South Australia,Australia,26.4,89,26.7,41.2,85.9,-,"18,971",26.2,32%,59:41:00,2016
+351-400,Swinburne University of Technology,Australia,21.5,84.8,20.2,53.4,32.2,-,"20,314",36.5,33%,44:56:00,2016
+401-500,Curtin University,Australia,20.1,93.1,20.2,44.6,37.8,-,"30,333",17.1,38%,53:47:00,2016
+401-500,Murdoch University,Australia,18.7,88.3,19.6,51.2,36.5,-,"16,606",32.8,43%,59:41:00,2016
+401-500,RMIT University,Australia,24.7,82.1,17.7,44.6,37,-,"29,501",18.1,25%,47:53:00,2016
+401-500,Southern Cross University,Australia,18.9,52.7,18.3,53.3,37.7,-,"9,026",32.8,15%,66:34:00,2016
+401-500,Western Sydney University,Australia,20.1,54,24.6,52.3,30.7,-,"30,704",32.2,9%,56:44:00,2016
+501-600,University of Canberra,Australia,18.4,54.6,19.3,29.8,36.2,-,"11,221",28.6,24%,54:46:00,2016
+501-600,Central Queensland University,Australia,20.9,50.8,11.4,43.7,32.5,-,"11,452",29.6,27%,59:41:00,2016
+501-600,Edith Cowan University,Australia,18.9,68.7,16.1,35,34.5,-,"27,491",16.1,16%,61:39:00,2016
+601-800,University of Southern Queensland,Australia,18.4,63,13.1,14.4,28.8,-,"13,761",29.2,21%,55:45:00,2016

@@ -1,0 +1,59 @@
+world_rank,institution,country,national_rank,quality_of_education,alumni_employment,quality_of_faculty,publications,influence,citations,broad_impact,patents,score,year
+92,University of Queensland,Australia,1,101,101,101,67,90,89,,46,44.18,2012
+94,University of Sydney,Australia,2,101,101,101,56,92,85,,69,44.13,2012
+92,University of Sydney,Australia,1,101,101,101,61,101,101,,48,44.77,2013
+96,Australian National University,Australia,2,101,101,43,101,101,101,,101,44.5,2013
+95,University of Sydney,Australia,1,127,158,162,50,117,61,94,100,51.58,2014
+97,University of Melbourne,Australia,2,136,101,210,45,74,87,81,194,51.43,2014
+115,University of Queensland,Australia,3,265,295,134,75,96,125,102,78,50.37,2014
+149,University of New South Wales,Australia,4,172,114,210,100,194,99,164,138,49.29,2014
+160,Australian National University,Australia,5,186,377,47,137,95,187,196,426,48.96,2014
+170,Monash University,Australia,6,277,134,210,96,146,250,173,159,48.71,2014
+225,University of Western Australia,Australia,7,145,397,140,165,214,283,176,373,47.47,2014
+340,University of Adelaide,Australia,8,201,400,210,244,254,283,313,737,45.97,2014
+486,Macquarie University,Australia,9,355,452,210,416,292,283,409,552,45.18,2014
+506,University of Wollongong,Australia,10,355,274,210,445,460,609,488,338,45.1,2014
+507,Flinders University,Australia,11,82,478,210,551,573,609,605,637,45.1,2014
+546,University of Newcastle,Australia,12,355,478,210,434,475,609,442,637,44.97,2014
+572,James Cook University,Australia,13,355,478,210,510,238,363,488,552,44.9,2014
+605,Queensland University of Technology,Australia,14,355,478,210,457,733,493,523,552,44.81,2014
+608,University of Tasmania,Australia,15,355,478,210,461,278,609,531,737,44.8,2014
+612,Curtin University,Australia,16,355,478,210,462,389,406,543,426,44.79,2014
+613,Deakin University,Australia,17,355,459,210,556,678,609,536,637,44.79,2014
+625,Griffith University,Australia,18,355,478,210,470,543,493,569,373,44.76,2014
+636,La Trobe University,Australia,19,355,439,210,559,446,800,585,737,44.73,2014
+723,University of South Australia,Australia,20,355,280,210,663,795,800,819,426,44.62,2014
+737,Swinburne University of Technology,Australia,21,355,478,210,658,447,493,642,737,44.6,2014
+836,Murdoch University,Australia,22,355,478,210,812,492,800,756,737,44.46,2014
+859,RMIT University,Australia,23,355,478,210,690,959,800,800,637,44.44,2014
+866,"University of Technology, Sydney",Australia,24,355,478,210,613,696,493,849,426,44.43,2014
+906,University of Western Sydney,Australia,25,355,478,210,693,591,609,869,737,44.39,2014
+910,Charles Darwin University,Australia,26,355,478,210,911,694,609,849,737,44.38,2014
+939,University of New England (Australia),Australia,27,355,478,210,916,552,493,909,637,44.34,2014
+88,University of Sydney,Australia,1,105,198,166,45,103,46,84,75,51.61,2015
+93,University of Melbourne,Australia,2,141,113,218,42,68,53,71,223,51.34,2015
+103,University of Queensland,Australia,3,269,292,142,65,78,101,99,68,50.4,2015
+130,University of New South Wales,Australia,4,177,70,218,90,177,101,164,157,49.33,2015
+145,Monash University,Australia,5,277,145,218,86,136,182,161,99,48.91,2015
+179,Australian National University,Australia,6,196,379,52,130,99,197,188,415,47.97,2015
+216,University of Western Australia,Australia,7,156,306,145,146,181,368,179,399,47.1,2015
+335,University of Adelaide,Australia,8,219,445,218,234,243,287,318,465,45.58,2015
+449,Macquarie University,Australia,9,367,304,218,391,292,321,402,530,44.96,2015
+467,University of Wollongong,Australia,10,367,269,218,431,433,428,424,493,44.88,2015
+494,University of Newcastle,Australia,11,367,567,218,408,496,812,424,322,44.79,2015
+523,University of Tasmania,Australia,12,367,567,218,429,261,645,447,727,44.7,2015
+541,James Cook University,Australia,13,367,567,218,505,248,428,457,665,44.67,2015
+579,Deakin University,Australia,14,367,424,218,502,647,321,529,636,44.56,2015
+595,Curtin University,Australia,15,367,559,218,425,384,511,549,518,44.52,2015
+613,Griffith University,Australia,16,367,567,218,436,500,368,565,556,44.49,2015
+620,Flinders University,Australia,17,122,567,218,518,581,812,622,686,44.48,2015
+621,Queensland University of Technology,Australia,18,367,567,218,477,750,511,558,492,44.48,2015
+645,La Trobe University,Australia,19,367,457,218,536,455,812,579,803,44.44,2015
+688,Swinburne University of Technology,Australia,20,367,567,218,654,456,511,606,772,44.38,2015
+751,University of South Australia,Australia,21,367,324,218,604,746,812,781,431,44.3,2015
+811,University of New England (Australia),Australia,22,367,251,218,938,634,511,932,797,44.22,2015
+815,"University of Technology, Sydney",Australia,23,367,543,218,580,668,511,796,520,44.22,2015
+829,Murdoch University,Australia,24,367,527,218,827,501,645,770,770,44.2,2015
+873,RMIT University,Australia,25,367,561,218,690,929,812,837,585,44.16,2015
+882,University of Western Sydney,Australia,26,367,567,218,651,551,645,850,647,44.15,2015
+942,Charles Darwin University,Australia,27,367,567,218,931,742,645,896,871,44.09,2015
